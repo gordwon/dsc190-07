@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Notebooks and editors
+.ipynb_checkpoints/
+__marimo__/
+.DS_Store
