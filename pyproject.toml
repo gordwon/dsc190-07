@@ -6,7 +6,7 @@ readme = "README.md"
 authors = [
     { name = "Gordon", email = "goyuan@ucsd.edu" }
 ]
-requires-python = ">=3.14"
+requires-python = ">=3.11"
 dependencies = [
     "dvc>=3.67.1",
     "marimo>=0.25.2",
